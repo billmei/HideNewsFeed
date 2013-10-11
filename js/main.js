@@ -13,7 +13,7 @@ window.setInterval(function(){
 });
 
 function hideNewsFeed() {
-    $('#pagelet_home_stream').hide();
+    $('#pagelet_home_stream').remove();
 }
 
 }());
