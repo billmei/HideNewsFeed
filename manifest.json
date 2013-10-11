@@ -3,7 +3,7 @@
 
     "name" : "Hide News Feed",
     "description" : "Hides the Facebook newsfeed. I call this \"soft-quitting\" or \"soft-deactivating\", in that you can access all other non-time-wasting features of Facebook without deactivating your account.",
-    "version" : "0.1",
+    "version" : "0.2",
 
     "icons" : {
         "16" : "img/thumb16.png",
