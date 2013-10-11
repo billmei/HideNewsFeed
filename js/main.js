@@ -9,7 +9,7 @@ window.setInterval(function(){
     if ($('#pagelet_home_stream').length > 0) {
         hideNewsFeed();
     }
-},1000);
+},20000);
 });
 
 function hideNewsFeed() {
