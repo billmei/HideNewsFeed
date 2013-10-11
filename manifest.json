@@ -1,0 +1,32 @@
+{
+    "manifest_version" : 2,
+
+    "name" : "Hide News Feed",
+    "description" : "Hides the Facebook newsfeed. I call this \"soft-quitting\" or \"soft-deactivating\", in that you can access all other non-time-wasting features of Facebook without deactivating your account.",
+    "version" : "0.1",
+
+    "icons" : {
+        "16" : "img/thumb16.png",
+        "48" : "img/thumb48.png",
+        "128" : "img/thumb128.png"
+    },      
+
+    "content_scripts": [ {
+       "include_globs": [ "*.facebook.*" ],
+       "js": [ "js/jquery-1.9.0.min.js", "js/main.js" ],
+       "css" : [ "css/hider.css" ],
+       "matches": [ "http://*.facebook.com/*", "https://*.facebook.com/*" ],
+       "run_at": "document_start"
+    } ],
+
+    "homepage_url" : "http://www.kortaggio.com/",
+
+    "page_action": {
+        "default_icon": "img/icon.png",
+        "default_title" : "Hide News Feed"
+    },
+
+    "background": {"scripts": ["js/background.js"]},
+
+    "update_url": "http://clients2.google.com/service/update2/crx"
+}
