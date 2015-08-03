@@ -2,9 +2,9 @@
 #topnews_main_stream_408239535924329,
 #u_jsonp_10_2 {
   visibility: hidden !important;
-  height: 0px;
+  height: 0 !important;
   font-size: 0 !important;
-  overflow: hidden;
+  overflow: hidden !important;
 }
 #pagelet_trending_tags_and_topics,
 #u_jsonp_10_2 {
