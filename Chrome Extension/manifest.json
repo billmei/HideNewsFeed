@@ -4,7 +4,7 @@
     "name" : "Hide Facebook Newsfeed",
     "short_name" : "Hide FB Newsfeed",
     "description" : "Hides the Facebook newsfeed. I call this \"soft-deactivating\" because you can still message people on Facebook without deactivating.",
-    "version" : "1.1.0",
+    "version" : "1.2.0",
 
     "icons" : {
         "16" : "img/thumb16.png",
