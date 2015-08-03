@@ -1,7 +1,16 @@
-#pagelet_trending_tags_and_topics, #topnews_main_stream_408239535924329, #u_jsonp_10_2 {
-    visibility: hidden !important;
-    font-size: 0 !important;
+#pagelet_trending_tags_and_topics,
+#topnews_main_stream_408239535924329,
+#u_jsonp_10_2 {
+  visibility: hidden !important;
+  height: 0px;
+  font-size: 0 !important;
+  overflow: hidden;
 }
-#pagelet_trending_tags_and_topics, #u_jsonp_10_2 {
+#pagelet_trending_tags_and_topics,
+#u_jsonp_10_2 {
   display: none !important;
+}
+
+div[id^=more_pager_pagelet_] {
+  margin-top: 10000px !important;
 }
