@@ -19,7 +19,7 @@
        "run_at": "document_start"
     } ],
 
-    "homepage_url" : "http://www.kortaggio.com/",
+    "homepage_url" : "https://billmei.net",
 
     "page_action": {
         "default_icon": "img/icon.png",
