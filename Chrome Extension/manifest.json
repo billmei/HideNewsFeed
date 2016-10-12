@@ -1,9 +1,9 @@
 {
     "manifest_version" : 2,
 
-    "name" : "Hide Facebook Newsfeed",
+    "name" : "Hide FB Newsfeed",
     "short_name" : "Hide FB Newsfeed",
-    "description" : "Hides the Facebook newsfeed. I call this \"soft-deactivating\" because you can still message people on Facebook without deactivating.",
+    "description" : "Hides the Facebook newsfeed so you don't get distracted. I call this \"soft-deactivating\" because you can still message people on Facebook without deactivating.",
     "version" : "1.2.0",
 
     "icons" : {
