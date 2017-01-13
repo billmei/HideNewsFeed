@@ -5,10 +5,15 @@ Hides the Facebook newsfeed. I call this "soft-quitting" or "soft-deactivating",
 
 ## Installation Instructions
 
-### 1. Binary File
+### 1. Direct Download
+[Click Here](https://github.com/kortaggio/HideNewsFeed/releases/download/v1.2.1/HideNewsFeed.1.2.1.crx) for a link to version 1.2.1
+
+Drag and drop the downloaded `.crx` file into Google Chrome's "extensions" tab.
+
+### 2. Binary File
 Go to the releases section and download the latest `crx` file. After you are finished downloading this file (it should be named something like `HideNewsFeed.version.number.crx`), drag and drop it into Google Chrome's "extensions" tab. Tested on Chrome version 20+.
 
-### 2. Compile From Source
+### 3. Compile From Source
 Run
 
 	$ git clone https://github.com/kortaggio/HideNewsFeed.git
