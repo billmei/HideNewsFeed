@@ -4,7 +4,7 @@
     "name" : "Hide FB Newsfeed",
     "short_name" : "Hide FB Newsfeed",
     "description" : "Hides the Facebook newsfeed so you don't get distracted, allowing you to still message people and use groups without deactivating.",
-    "version" : "1.2.1",
+    "version" : "1.3.0",
 
     "icons" : {
         "16" : "img/thumb16.png",
